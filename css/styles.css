@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2 {color:grey;
+	font-size: 20px;}
+h1{color:saddlebrown;
+	font-size: 50px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style:italic;
+	background-image: url("../media/park.png")}
+p{border:thin black 4px}
+	
+
+		
+		.container-style {
+			margin:50px;
+			padding: 20px;
+			background-color:grey;
+}
+.container-style2 {
+	padding: 100px;
+	margin: 20px;
+	
+}
+
